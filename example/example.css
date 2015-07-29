@@ -1,0 +1,44 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #cccccc;
+}
+
+header, footer {
+	padding: 20px;
+	text-align: center;
+	background: #303030;
+	color: #ffffff;
+}
+
+footer a {
+	color: #ffffff;
+}
+
+header {
+	font-size: 24pt;
+}
+
+div#myflow {
+	margin: 15px 15px 0px 0px;
+}
+
+div#myflow div {
+	width: 200px; /* THIS PROPERTY IS VERY IMPORTANT */
+	margin: 0px 0px 15px 15px;
+	padding: 15px;
+	box-shadow: 0px 0px 5px #000000;
+	background: #ffffff;
+}
+
+div#myflow div h4 {
+	font-size: 16pt;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+div#myflow div p {
+	font-size: 12pt;
+	margin: 0px;
+	margin-top: 10px;
+}
